@@ -3,7 +3,7 @@ This repo contains the implementation of MM Algorithm.
 
 Project Name: Majorization-Minimization Algorithms in Signal Processing, Communications, and Machine Learning
 
-By: Neel Kanth KUNDU (20525393)
+By: Neel Kanth KUNDU (20525393), Email: nkkundu@connect.ust.hk
 
 This repo contains the code to reproduce the simulation results in the report.
 
